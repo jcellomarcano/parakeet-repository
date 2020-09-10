@@ -16,3 +16,5 @@ This for the structure and Architecure of all the App, because BLoC is basically
   http: ^0.12.0+4
   JSON anotation to manage JSONS
   json_annotation: ^3.0.0
+  
+  ![Farmers Market Finder Demo](res/GIF-200910_054452.gif)
