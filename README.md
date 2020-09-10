@@ -9,7 +9,7 @@
 
 
 
-# ¿What Is?
+# What Is?
 
 **Pokedex App for education porpose in Flutter***, is a basic application where we generate an infinite scrolling list where we will show all the Pokémon that exist within the  [PokeAPI: https://pokeapi.co/](https://pokeapi.co/) in it we have a view of filtering the Pokémon by type and a detail view where the sprites of each pokemon as if it were a GBA games, the weight and its type
 
@@ -17,7 +17,7 @@ Developed by:
 
 - [@jcellomarcano](https://github.com/jcellomarcano)
 
-# ¿How run it? 
+# How run it? 
 
 1. Have Flutter and Dart downloaded
 
